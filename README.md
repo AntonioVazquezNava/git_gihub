@@ -89,6 +89,7 @@ Imparte: Samuel Garrido
 # Calificaciones 🥇🥈🥉
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
+🤣 Antonio Isidro Vázquez Nava
 |1|Rene Leonardo Ahumada Lemus                   |||||
 |2|Alquicira Peña Luis Enrique                       |||||
 |3|                         |||||
